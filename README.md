@@ -4,7 +4,7 @@
 ~~*下载完代码后，记得在`home`目录下新建`lib`、`work`和`logs`这几个文件夹*~~
 > [代码搭建文章](http://blog.csdn.net/mrhuangxiutao/article/details/78261155)
 
-> 原理分析参考文章：
+原理分析参考文章：
 
 > - [Tomcat架构简述](http://www.cnblogs.com/coldridgeValley/p/5469615.html)
 
