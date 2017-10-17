@@ -7,17 +7,11 @@
 原理分析参考文章：
 
 > - [Tomcat架构简述](http://www.cnblogs.com/coldridgeValley/p/5469615.html)
-
 > - [Tomcat启动过程源码分析](http://www.cnblogs.com/coldridgeValley/p/5471421.html)
-
 > - [Tomcat启动过程源码分析二](http://www.cnblogs.com/coldridgeValley/p/5515423.html)
-
 > - [Tomcat启动过程源码分析三](http://www.cnblogs.com/coldridgeValley/p/5516009.html)
-
 > - [Tomcat启动过程源码分析四](http://www.cnblogs.com/coldridgeValley/p/5631610.html)
-
 > - [Tomcat启动过程源码分析五](http://www.cnblogs.com/coldridgeValley/p/5631614.html)
-
 > - [Tomcat启动过程源码分析六](http://www.cnblogs.com/coldridgeValley/p/5515423.html)
 
 
